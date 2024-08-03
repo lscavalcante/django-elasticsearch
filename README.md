@@ -25,7 +25,7 @@ Here are the packages required for this project:
 
 Follow these steps to get the project up and running on your local machine:
 
-1. **Clone the repository**: Use the `git clone` command to clone the repository. Replace `repository_url` with the URL
+1. **Clone the repository**: Use the `git clone https://github.com/lscavalcante/django-elasticsearch.git` command to clone the repository.
    of your repository.
 2. **Create a virtual environment**: `python3 -m venv venv`
 3. **Activate the virtual environment**: Use the `source venv/bin/activate` command to activate the virtual environment.
